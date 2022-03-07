@@ -1,0 +1,13 @@
+package io.jjong.study.spring;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class StudySpringApplicationTests {
+
+  @Test
+  void contextLoads() {
+  }
+
+}
